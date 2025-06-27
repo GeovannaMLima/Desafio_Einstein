@@ -1,4 +1,4 @@
-# Desafio de Einstein com Algoritno Genético
+# Desafio de Einstein com Algoritmo Genético
 Este projeto implementa um Algoritmo Genético para resolver o clássico Desafio de Einstein.
 
 É um Problema lógico no qual você deve determinar a nacionalidade, a cor da casa, a bebida, o cigarro e o animal de estimação de cinco moradores, com base em 15 regras.
